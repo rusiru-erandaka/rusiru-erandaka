@@ -8,7 +8,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rusiru-erandaka" alt="rusiru-erandaka" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rusiru-erandaka&theme=algolia" alt="rusiru-erandaka" /></a> </p>
 
 - 🔭 I’m currently working on **Multy-model NSFW content Detector**
 
