@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rusiru Erandaka</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rusiru-erandaka&label=Profile%20views&color=0e75b6&style=flat" alt="rusiru-erandaka" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rusiru-erandaka&label=Profile%20views&color=44c1e7&style=flat" alt="rusiru-erandaka" /> </p>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
 
