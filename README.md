@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rusiru-erandaka&theme=algolia" alt="rusiru-erandaka" /></a> </p>
 
-- 🔭 I’m currently working on **Multy-model NSFW content Detector**
+- 🔭 I’m currently working on **Train-Elephant collision Detection System**
 
 - 🌱 I’m currently learning **Linux, Docker and Kubernetes**
 
-- 👯 I’m looking to collaborate on **Real world Problem solving Full-stack Projects**
+- 👯 I’m looking to collaborate on **Real world Problem solving Full-stack and AI/ML Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
